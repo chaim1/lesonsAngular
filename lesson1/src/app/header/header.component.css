@@ -1,0 +1,366 @@
+
+.AliceBlue{
+    color:aliceblue;
+} 
+.AntiqueWhite{
+    color:antiquewhite;
+} 
+.Aqua{
+    color:  aqua;  
+} 
+.Aquamarine{
+    color:  aquamarine  
+} 
+.Azure{
+    color:  azure;  
+} 
+.Beige{
+    color:    beige;
+} 
+.Bisque{
+    color:  bisque;  
+} 
+.Black{
+    color:   black; 
+} 
+.BlanchedAlmond{
+    color:   blanchedalmond; 
+} 
+.Blue{
+    color:    blue;
+} 
+.BlueViolet{
+    color:    blueviolet
+} 
+.Brown{
+    color:    brown;
+} 
+.BurlyWood{
+    color:    burlywood;
+} 
+.CadetBlue{
+    color:    cadetblue;
+} 
+.Chartreuse{
+    color:   chartreuse; 
+} 
+.Chocolate{
+    color:    chocolate;
+} 
+.Coral{
+    color:    coral;
+} 
+.CornflowerBlue{
+    color:    cornflowerblue;
+} 
+.Cornsilk{
+    color:    cornsilk;
+} 
+.Crimson{
+    color:    crimson;
+} 
+.Cyan{
+    color:   cyan; 
+} 
+.DarkBlue{
+    color:  darkblue;  
+} 
+.DarkCyan{
+    color:    darkcyan;
+} 
+.DarkGoldenRod{
+    color:    darkgoldenrod;
+} 
+.DarkGray{
+    color:    darkgray;
+} 
+.DarkGrey{
+    color:    darkgrey;
+} 
+.DarkGreen{
+    color:    darkgreen;
+} 
+.DarkKhaki{
+    color:    darkkhaki;
+} 
+.DarkMagenta{
+    color:    darkmagenta;
+} 
+.DarkOliveGreen{
+    color: darkolivegreen;
+}.Darkorange{
+    color: darkorange;
+}.DarkOrchid{
+    color:darkorchid;
+}.DarkRed{
+    color:darkred;
+}.DarkSalmon{
+    color:darksalmon;
+}.DarkSeaGreen{
+    color:darkseagreen;
+}.DarkSlateBlue{
+    color:darkslateblue;
+}.DarkSlateGray{
+    color:darkslategray;
+}.DarkSlateGrey{
+    color:darkslategrey;
+}.DarkTurquoise{
+    color:darkturquoise;
+}.DarkViolet{
+    color:darkviolet;
+}.DeepPink{
+    color:deeppink;
+}.DeepSkyBlue{
+    color:deepskyblue;
+}.DimGray{
+    color:DimGray;
+}.DimGrey{
+    color:DimGrey;
+}.DodgerBlue{
+    color:DodgerBlue;
+}.FireBrick{
+    color:FireBrick;
+}.FloralWhite{
+    color:FloralWhite;
+}.ForestGreen{
+    color:ForestGreen;
+}.Fuchsia{
+    color:Fuchsia;
+}.Gainsboro{
+    color:Gainsboro;
+}.GhostWhite{
+    color:GhostWhite;
+}.Gold{
+    color:Gold;
+}.GoldenRod{
+    color:GoldenRod;
+}.Gray{
+    color:Gray;
+}.Grey{
+    color:Grey;
+}.Green{
+    color:Green;
+}.GreenYellow{
+    color:GreenYellow;
+}.HoneyDew{
+    color:HoneyDew;
+}.HotPink{
+    color:HotPink;
+}.IndianRed{
+    color:IndianRed;
+}.Indigo{
+    color:Indigo;
+}.Ivory{
+    color:Ivory;
+}.Khaki{
+    color:Khaki;
+}.Lavender{
+    color:Lavender;
+}.LavenderBlush{
+    color:LavenderBlush;
+}.LawnGreen{
+    color:LawnGreen;
+}.LemonChiffon{
+    color:LemonChiffon;
+}.LightBlue{
+    color:LightBlue;
+}.LightCoral{
+    color:LightCoral;
+}.LightCyan{
+    color:LightCyan;
+}.LightGoldenRodYellow{
+    color:LightGoldenRodYellow;
+}.LightGray{
+    color:LightGray;
+}.LightGrey{
+    color:LightGrey;
+}.LightGreen{
+    color:LightGreen
+}.LightPink{
+    color:LightPink
+}.LightSalmon{
+    color:LightSalmon
+}.LightSeaGreen{
+    color:LightSeaGreen
+}.LightSkyBlue{
+    color:LightSkyBlue;
+}.LightSlateGray{
+    color:LightSlateGray;
+}.LightSlateGrey{
+    color:LightSlateGrey;
+}.LightSteelBlue{
+    color:LightSteelBlue;
+}.LightYellow{
+    color:LightYellow;
+}.Lime{
+    color:Lime;
+}.LimeGreen{
+    color:LimeGreen;
+}.Linen{
+    color:Linen;
+}.Magenta{
+    color:Magenta;
+}.Maroon{
+    color:Maroon;
+}.MediumAquaMarine{
+    color:MediumAquaMarine;
+}.MediumBlue{
+    color:MediumBlue;
+}.MediumOrchid{
+    color:MediumOrchid;
+}.MediumPurple{
+    color:MediumPurple;
+}.MediumSeaGreen{
+    color:MediumSeaGreen;
+}.MediumSlateBlue{
+    color:MediumSlateBlue;
+}.MediumSpringGreen{
+    color:MediumSpringGreen;
+}.MediumTurquoise{
+    color:MediumTurquoise;
+}.MediumVioletRed{
+    color:MediumVioletRed;
+}.MidnightBlue{
+    color:MidnightBlue;
+}.MintCream{
+    color:MintCream;
+}.MistyRose{
+    color:MistyRose;
+}.Moccasin{
+    color:Moccasin;
+}.NavajoWhite{
+    color:NavajoWhite;
+}.Navy{
+    color:Navy;
+}.OldLace{
+    color:OldLace;
+}.Olive{
+    color:Olive;
+}.OliveDrab{
+    color:OliveDrab;
+}.Orange{
+    color:Orange;
+}
+.OrangeRed{
+    color:   OrangeRed; 
+}
+.Orchid{
+    color:   Orchid; 
+}
+.PaleGoldenRod{
+    color:   PaleGoldenRod; 
+}
+.PaleGreen{
+    color:    PaleGreen;
+}
+.PaleTurquoise{
+    color:   PaleTurquoise; 
+}
+.PaleVioletRed{
+    color: PaleVioletRed;   
+}
+.PapayaWhip{
+    color: PapayaWhip;   
+}
+.PeachPuff{
+    color: PeachPuff;   
+}
+.Peru{
+    color: Peru;   
+}
+.Pink{
+    color:  Pink;  
+}
+.Plum{
+    color:  Plum;  
+}
+.PowderBlue{
+    color: PowderBlue;   
+}
+.Purple{
+    color:Purple;    
+}
+.Red{
+    color:Red;    
+}
+.RosyBrown{
+    color: RosyBrown;   
+}
+.RoyalBlue{
+    color:RoyalBlue;    
+}
+.SaddleBrown{
+    color: SaddleBrown;   
+}
+.Salmon{
+    color:Salmon;    
+}
+.SandyBrown{
+    color: SandyBrown;   
+}
+.SeaGreen{
+    color: SeaGreen;   
+}
+.SeaShell{
+    color:SeaShell;    
+}
+.Sienna{
+    color:Sienna;    
+}
+.Silver{
+    color:Silver;    
+}
+.SkyBlue{
+    color:SkyBlue;    
+}
+.SlateBlue{
+    color: SlateBlue;   
+}
+.SlateGray{
+    color:SlateGray;    
+}
+.SlateGrey{
+    color: SlateGrey;   
+}
+.Snow{
+    color: Snow   
+}
+.SpringGreen{
+    color:   SpringGreen; 
+}
+.SteelBlue{
+    color:  SteelBlue;  
+}
+.Tan{
+    color:   Tan; 
+}
+.Teal{
+    color:  Teal;  
+}
+.Thistle{
+    color:    Thistle;
+}
+.Tomato{
+    color: Tomato   ;
+}
+.Turquoise{
+    color:   Turquoise ;
+}
+.Violet{
+    color:Violet;    
+}
+.Wheat{
+    color:Wheat;    
+}
+.White{
+    color: White;   
+}
+.WhiteSmoke{
+    color:  WhiteSmoke;  
+}
+.Yellow{
+    color:  Yellow;  
+}
+.YellowGreen{
+    color:YellowGreen;
+}
